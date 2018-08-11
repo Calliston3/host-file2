@@ -1,0 +1,113 @@
+# Last updated: 2018-08-12
+
+# For the license of this file, see:
+# https://github.com/Calliston3/host-file2/blob/master/LICENSE for more info.
+
+# Hosts Start
+
+# Localhost Start
+127.0.0.1	localhost
+::1	localhost
+::1	ip6-localhost
+::1	ip6-loopback
+# Localhost End
+
+# Apkmirror Start
+104.19.135.58    www.apkmirror.com
+# Apkmirror End
+
+# BBC Series Start
+151.101.8.81	www.bbc.com
+151.101.40.81	fig.bbc.co.uk
+212.58.246.92	www.bbc.co.uk
+104.118.112.225	static.bbci.co.uk
+212.58.244.76	static.bbc.co.uk
+23.66.206.133	polling.bbc.co.uk
+212.58.246.212	ssl.bbc.co.uk
+23.50.99.110	ichef.bbci.co.uk
+172.227.98.43	feeds.bbci.co.uk
+23.73.186.251	m.files.bbci.co.uk
+23.13.157.61	mybbc.files.bbci.co.uk
+104.76.83.32	nav.files.bbci.co.uk
+23.33.70.13	search.files.bbci.co.uk
+95.101.92.111	a.files.bbci.co.uk
+95.101.15.42	gel.files.bbci.co.uk
+23.201.173.230	mybbc-analytics.files.bbci.co.uk
+104.103.150.125	emp.bbc.com
+212.58.246.124	session.bbc.com
+212.58.249.134	account.bbc.com
+23.53.213.148	news.bbcimg.co.uk
+54.72.23.188	push.api.bbci.co.uk
+34.251.9.18	search-suggest.api.bbci.co.uk
+52.211.194.92	ess.api.bbci.co.uk
+212.58.244.78	open.live.bbc.co.uk
+
+(For radio and email services, optional)
+77.72.112.213   sa.bbc.co.uk
+104.76.135.135  homepage.files.bbci.co.uk
+52.215.70.146   ssc.api.bbc.com
+104.76.135.135  emp.bbci.co.uk
+104.76.135.135  emp.bbc.co.uk
+104.76.135.135  rmp.files.bbci.co.uk
+212.58.244.17   r.bbci.co.uk
+13.111.23.237  click.ma.mailenvelope.bbc.co.uk
+13.111.23.238  view.ma.mailenvelope.bbc.co.uk
+184.26.99.230  ichef-1.bbci.co.uk
+23.213.32.12  c.files.bbci.co.uk
+91.207.38.139   bbcsignups.external.bbc.co.uk
+68.232.203.70   click.email.bbc.com
+23.32.241.10   image.email.bbc.com
+68.232.203.71   view.email.bbc.com
+68.232.203.80   pages.email.bbc.com
+212.58.244.158   search.bbc.co.uk
+184.26.99.230    ichef.bbc.co.uk
+212.58.249.137   session.bbc.co.uk
+184.50.102.99   idcta.api.bbc.co.uk
+91.207.38.132   iplayerhelp.external.bbc.co.uk 
+207.159.133.98   shop.bbc.com
+# BBC Series End
+
+# Crwdcntrl.net Start
+93.184.220.113  tags.crwdcntrl.net
+52.77.33.157   bcp.crwdcntrl.net
+# Crwdcntrl.net End
+
+# Quora Start
+151.101.1.2   www.quora.com
+34.233.218.142   q.quora.com
+52.55.171.67   log.quora.com
+# Note: If you view a page on Quora on desktop, a message "Trying to regain internet connection... Hide this message." will appear.
+This is because servers of Quora (For example, tch834143.tch.quora.com) are blocked.You can add them into the hosts file if you'd like.
+# Quora End
+
+# Reddit Start
+151.101.229.140   www.reddit.com
+151.101.73.140   www.redditmedia.com
+151.101.73.140   styles.redditmedia.com
+151.101.41.140   i.redditmedia.com
+151.101.41.140   g.redditmedia.com
+151.101.41.140   a.thumbs.redditmedia.com
+151.101.41.140   b.thumbs.redditmedia.com
+151.101.1.140   gateway.reddit.com
+151.101.1.140   about.reddit.com
+151.101.1.140   engine.a.redditmedia.com
+151.101.1.140   i.redd.it
+151.101.1.140   v.redd.it
+151.101.73.140   old.reddit.com
+34.192.10.179   alb.reddit.com
+# Reddit End
+
+# Wikimedia Projects Start
+198.35.26.96     zh.wikipedia.org
+198.35.26.96     zh.m.wikipedia.org
+198.35.26.96     wuu.wikipedia.org
+198.35.26.96     zh-yue.wikipedia.org
+198.35.26.96     ja.wikipedia.org
+198.35.26.96     ja.m.wikipedia.org
+198.35.26.96     ug.wikipedia.org
+198.35.26.96     ug.m.wikipedia.org
+198.35.26.96     zh.wikinews.org
+198.35.26.96	   zh.m.wikinews.org
+# Wikimedia Projects End
+
+# Hosts End
